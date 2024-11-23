@@ -1,0 +1,42 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+body{
+        background-color: #805577;
+        width: 100vw;
+        height: 100vh;
+}
+
+
+
+.cabecalho{
+ 
+        font-family: "Ubuntu", sans-serif;
+        font-weight: 400;
+        font-size: 20px;
+        color:black; 
+}
+header{
+        padding: 5vh 5vw;
+        background: linear-gradient(  #805577 0% , 25% , 50%,75%,   100%    );
+       
+        margin-bottom: 5vh;
+}
+header h1{
+        color: ;
+        text-align: center;
+        font-size: 3rem;
+        font-weight: bolder;
+}
+main{
+        background: ;
+        width:1oo%;
+}
+main section{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+
